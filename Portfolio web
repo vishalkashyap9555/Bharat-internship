@@ -4,17 +4,17 @@
 <meta charset="UTF-8">
 <Meta name="viewport" content="width=device-width, initioal-scale=1.0">
 <link rel="stylesheet" href=style.css">
-<title>your name - portfolio</title>
+<title>Vishal Kashyap- portfolio</title>
 </head>
 <body>
 <header>
-<h1>your name</h1>
+<h1>Vishal Kashyap</h1>
 <p>Web Developer</p>
 </header>
 <Section id="about">
 <h2>About Me</h2>
 <p>
-Welcome to m,y portfolio! in HTML< CSS, and javaScript.
+Welcome to my portfolio! in HTML< CSS, and javaScript.
 </p>
 </section>
 <section id="skill">
