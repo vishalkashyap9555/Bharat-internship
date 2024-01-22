@@ -1,1 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<Meta name="viewport" content="width=device-width, initioal-scale=1.0">
+<link rel="stylesheet" href=style.css">
+<title>your name - portfolio</title>
+</head>
+<body>
+<header>
+<h1>your name</h1>
+<p>Web Developer</p>
+</header>
+<Section id="about">
+<h2>About Me</h2>
+<p>
+Welcome to m,y portfolio! in HTML< CSS, and javaScript.
+</p>
+</section>
+<section id="skill">
+<h2>skill</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<!-- Add more skill as needed -->
+</ul>
+</section>
+<section id="projects">
+<h2>projects</h2>
+<div class="project">
+<h3>Project 1</h3>
+<p>Description of project 1.</p>
+</div>
+<div class="project">
+<h3>project 2</h3>
+<p>Description of project 2.</p>
+</div>
+<!--Add more projects as needed -->
+</section>
+<section id="contact">
+<h2>Contact Me</h2>
+<p>email: vishalkashyap955595@gmail.com</p>
+<p>Linkedin: <a href="https://www.linkedin.com/in/mr-vishalkashyap21"=</a></p>
+<!--Add more contact information as needed -->
+</section>
+<footer>
+<p>&copy;2024 vishal.all rights reserved.</p>
+</footer>
+</body>
+</html>
 
+2. by using CSs-->
+body {
+font-family: Arial',sans-srif;
+margin: 0;padding 0;
+}
+header{
+backgraound-color:#333;
+colors:#fff;
+text-align: center;
+padding:!em;
+}
+section{
+margin:2em;
+}
+h2{
+color: #333;
+}
+ul{
+list-style:none;
+padding: 0;
+}
+li{
+margin-bottom: ).5em;
+}
+.project{
+border: !px solid #ddd;
+padding: !em;
+}
+footer{
+background-color: #333;
+color; #fff;
+text-align: center;
+padding: !em;
+}
